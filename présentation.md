@@ -40,6 +40,34 @@ Ici trouve place les liens que vous tissez entre votre projet et les réalisatio
 
 Tous visuels, objets, modes d'interaction, … déjà existant doit se trouver ici. Faites en sorte que les descriptifs de ceux-ci soient de qualité. S’il s’agit d’images fixe ou en mouvement prenez garde à l’éclairage, au fond... Ne faites pas ça à côté de votre petit frère entrain de faire ses devoirs, ni de votre maman entrain de repeindre le couloir, ni de votre papa entrain de faire des cookies, et ne parlons pas de ce que pourrait y faire mamy... Prenez-vous au sérieux!
 
+- on n'a peut-être pas été assez clairs sur l'*État d'Avancement*,
+  mais vos réponses étaient par ailleurs tout à fait pertinentes! Avoir 
+  un état d'avancement régulièrement mis à jour, qui distingue ce qui est 
+  fait, à faire et en cours, est super intéressant. Je propose que vous 
+  ajoutiez un fichier à votre repository ou votre Drive, dédié à ça. Genre
+  "tasks.md", "progress.md" ou un équivalent en français.  
+
+- Il faut peut-être aussi clarifier que, vu les circonstances, on est bien 
+  conscients que certains aspects (plus physiques/installation) de votre 
+  projet ne seront pas réalisable ou expérimentables en direct. Ça ne veut
+  pas dire que vous devez les virer de votre projet. Ces aspects devront 
+  juste être communiqués dans le dossier, **comme si vous comptiez toujours les réaliser**. D'ailleurs la demande de penser le dispositif (par une interface physique, un installation, etc) reste.  
+
+- Ça nécessite de déterminer le plus tôt possible  
+
+- ce qui sera réalisé en juin, ce qui sera expérimentable directement (sur l'ordi des profs, en gros),  
+
+- comment vous communiquerez ce qui resterait à faire pour compléter le projet.  
+  L'État
+  d'Avancement est la partie du dossier où vous nous décrirez (en texte, 
+  images, vidéos, téléchargements, builds, ...) le "fait" et le "à faire".
+  L'écrire aujourd'hui, c'est donc fixer ce que vous montrerez en juin 
+  (après l'avoir validé avec nous!)
+  
+  Ça veut dire aussi que votre calendrier ne doit pas forcément s'arrêter
+  en juin, mais inclure de façon spéculative le temps supplémentaire 
+  nécessaire à la réalisation physique finale.
+
 #### Calendrier de production
 
 Nous sommes ici dans la section la plus spéculative. Plongez-vous dans la rivière du temps, visez l’avenir, ignorez l’état de notre environnement bordélique dû au confinement et datez le travail à accomplir. À la fin théorique de ce calendrier, lorsque la dernière échéance que vous vous serez fixée et que vous aurez certainement reportée, vous aurez réalisé ce merveilleux et pertinent travail que vous venez de nous décrire en large et en travers.

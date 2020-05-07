@@ -21,3 +21,5 @@
 - Votre travail doit intégrer la question du dispositif. Autrement dit, il ne peut pas se limiter à une interface clavier/souris/écran. Il faut réfléchir au-delà, par exemple en terme d’interface physique ou d’installation dans l’espace.
 
 ### [Protocol de présentation](./présentation.md)
+
+### [Des outils pour faire une bonne documentation](.tools.md)
