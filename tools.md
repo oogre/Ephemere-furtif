@@ -1,8 +1,10 @@
 # [Éphémère, furtif](./README.md)
 
-**Tuto :**
+**Tutos :**
 
 - [utiliser github desktop](https://www.youtube.com/results?search_query=utiliser+github+desktop+)
+
+- [Markdown en bref](https://openclassrooms.com/fr/courses/1304236-redigez-en-markdown)
 
 - [Tutoriel Markdown : Markdown](https://www.youtube.com/watch?v=6hikjzymd0c)
 
@@ -13,6 +15,8 @@
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 - [shields.io/](https://shields.io/)
+
+- [Éditeurs Markdown & insertion d'images](markdown-images.md)
 
 **Exemples :**
 
@@ -27,5 +31,7 @@
 - [ ] [GitHub - stluc-an/19-20_AN1_256x256x256](https://github.com/stluc-an/19-20_AN1_256x256x256)
 
 - [ ] [GitHub - leereilly/games: A list of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.](https://github.com/leereilly/games#user-content-boardgame)
+
+- [ ] [Exemple/Test de dossier Éphémère/Furtif](https://github.com/stluc-an/TestDossier_EphemereFurtif)
 
 
